@@ -1,0 +1,6 @@
+{
+  "name": "Cổng Quản Trị Học Tập THPT Chuyên Thủ Khoa Nghĩa",
+  "description": "Hệ thống quản trị học tập dành cho giáo viên và học sinh trường THPT Chuyên Thủ Khoa Nghĩa - Năm học 2026 - 2027 - Quản trị: GV Nguyễn Thị Quốc Khánh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
